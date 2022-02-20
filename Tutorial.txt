@@ -1,0 +1,8 @@
+1. open Jupyter Notebook (anaconda3)
+2.Creat a folder in destop
+3. copy and past python file and data file in creating folder
+4.Run the file using 'Run' button and continue.
+5.After Run all line of code finaly you will get result.
+
+       Thank you sir.
+ 
